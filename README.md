@@ -2,9 +2,7 @@
 
 This is originally REST framework tutorial by Tom Christie
 
-Source code for the [Django REST framework tutorial][tut].
-
-[tut]: http://www.django-rest-framework.org/tutorial/1-serialization
+Source code for the [Django REST framework tutorial + Oso].
 
 I have added support for Django Oso. 
 

@@ -1,3 +1,2 @@
-
-allow(_user: User, "GET", http_request: rest_framework::request::Request) if
-    http_request.path = "/test-oso";
+allow(_user: User, "GET", http_request: HttpRequest) if
+    http_request.path = "/test-oso/";
